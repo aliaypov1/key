@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" width="420" height="96">
+  <defs>
+    <linearGradient id="gold3" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff2b0"></stop>
+      <stop offset="0.25" stop-color="#f5d776"></stop>
+      <stop offset="0.5" stop-color="#d8b455"></stop>
+      <stop offset="0.75" stop-color="#b8922e"></stop>
+      <stop offset="1" stop-color="#8a6c21"></stop>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(12,12)" fill="url(#gold3)">
+    <!-- Key icon -->
+    <path d="M28 36a14 14 0 1 0 0-28 14 14 0 0 0 0 28zM42 36v6h6v6h6v-6h6v-6H42z"></path>
+    <rect x="42" y="30" width="40" height="8" rx="3"></rect>
+
+    <!-- Text -->
+    <text x="96" y="46" font-family="Segoe UI, Roboto, Inter, Arial" font-weight="700" font-size="36">Anahtar <tspan font-weight="800">Pro</tspan></text>
+  </g>
+</svg>
