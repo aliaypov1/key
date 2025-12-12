@@ -89,7 +89,6 @@
 .hero {
   position: relative;
   width: 100%;
-  height: 100vh;
   overflow: hidden;
   background-color: black;
 }
@@ -120,6 +119,21 @@
 .color-btn:hover {
   background: #ffea61;
 }
+.content1 {
+    max-width: 400px;
+    width: 100%;
+    margin: 50px auto;
+}
 
+.images {
+}
+
+.images img {
+    width: 100%;
+    border-radius: 10px;
+}
+.img{
+  margin: 45px 0;
+}
 
 
